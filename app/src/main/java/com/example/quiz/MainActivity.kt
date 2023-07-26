@@ -24,6 +24,6 @@ class MainActivity : AppCompatActivity() {
                 finish()
               }
         }
-
+// Competed the Project of quiz app
     }
 }
