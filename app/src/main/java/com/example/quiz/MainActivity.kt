@@ -25,5 +25,6 @@ class MainActivity : AppCompatActivity() {
               }
         }
 // Competed the Project of quiz app
+// Edidted from github
     }
 }
